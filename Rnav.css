@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.assign{
+    display: flex;
+    background: blue;
+    gap: 200px;
+}
+img{
+    height: 100px;
+}
+.links,a{
+    color: white;
+    padding: 20px;
+
+}
